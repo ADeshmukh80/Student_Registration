@@ -33,5 +33,5 @@ git clone https://github.com/your-username/UserRegistrationSystem.git
 ```
 - Open in IDE, ensure MySQL is running, and run `UserRegistration.java`.
 
-
-
+- ## Screenshots
+- ![WhatsApp Image 2025-03-12 at 22 45 37_6a2901aa](https://github.com/user-attachments/assets/c46ee229-1d1a-4235-978f-bb5e830e2940)
